@@ -13,7 +13,7 @@ Projeto desenvolvido como parte de desafio na DIO para classificar o nível de u
 1️⃣ Clone o repositório:
 ```bash
 git clone https://github.com/Paczitos/DIO-classificador-heroi-ts
-cd classificador-heroi-ts
+cd DIO-classificador-heroi-ts
 ```
 
 2️⃣ Instale as dependências:
